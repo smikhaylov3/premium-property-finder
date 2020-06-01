@@ -46,7 +46,7 @@ function Hero({ miniHero }) {
                 </td>
                 <td><div className="card-footer">
                     <Link className="btn btn-primary" to={'/'}>
-                      Available Homes
+                      Testimonials
                     </Link>
                   </div>
                 </td>
