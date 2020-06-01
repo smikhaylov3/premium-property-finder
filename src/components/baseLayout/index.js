@@ -12,13 +12,13 @@ function BaseLayout({ children, miniHero = false }) {
         Developed By
         {' '}
         <a
-          href="https://twitter.com/jpreecedev"
+          href="https://www.sergeymikhaylov.net/"
           target="_blank"
           rel="noopener noreferrer"
         >
-          Jon Preece
+          Sergey Mikhaylov
         </a>
-        , 2019
+        , 2020
       </footer>
     </>
   )
